@@ -1,0 +1,6 @@
+01-debug-before.png — книга 999, null/исключение в LibraryApp.Buggy
+02-debug-after.png — исправленная обработка книги 999
+03-error-list-before.png — замечания исходного кода
+04-error-list-after.png — окно ошибок для исправленного кода
+05-git-changes.png — коммит
+06-github.png — файлы на GitHub
